@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-// jobayer magi
+
 void main() {
   runApp(const MyApp());
 }
